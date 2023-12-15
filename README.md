@@ -15,7 +15,8 @@
 In the directory of your book, install _whichlang_ with the following command.
 
 ```console,lang=Console,icon=.devicon-bash-plain
-curl -sSf https://raw.githubusercontent.com/phoenixr-codes/mdbook-whichlang/master/install.sh | sh
+curl -sSf -o install-whichlang.sh https://raw.githubusercontent.com/phoenixr-codes/mdbook-whichlang/master/install.sh &&
+bash install-whichlang.sh
 ```
 
 Alternatively, you can download `dist/whichlang.js` and `src/whichlang.css`
