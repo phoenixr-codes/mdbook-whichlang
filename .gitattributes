@@ -1,1 +1,3 @@
 dist/* linguist-generated
+book/scripts/*.js linguist-vendored
+book/*.css linguist-vendored
