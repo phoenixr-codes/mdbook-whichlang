@@ -1,0 +1,15 @@
+[book]
+authors = ["Jonas da Silva"]
+language = "en"
+multilingual = false
+src = "src"
+title = "whichlang"
+
+[build]
+extra-watch-dirs = ["scripts"]
+
+[output.html]
+additional-css = ["whichlang.css", "devicon.css"]
+additional-js = ["scripts/whichlang.js"]
+git-repository-url = "https://github.com/phoenixr-codes/mdbook-whichlang/tree/master/"
+edit-url-template = "https://github.com/phoenixr-codes/mdbook-whichlang/edit/master/{path}"

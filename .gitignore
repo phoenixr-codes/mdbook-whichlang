@@ -1,0 +1,8 @@
+# Book generation
+/book/book
+
+# JS generation
+*._info.json
+*.js_
+*.js.deps
+*.js.map
