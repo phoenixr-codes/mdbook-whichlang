@@ -38,6 +38,6 @@ fi
 echo
 
 printf "$emoji_arrow_down Downloading files.\n"
-curl -sSf -o "$script_path" https://raw.githubusercontent.com/phoenixr-codes/mdbook-whichlang/master/dist/whichlang.js
-curl -sSf -o "$style_path" https://raw.githubusercontent.com/phoenixr-codes/mdbook-whichlang/master/dist/whichlang.css
+curl -sSf -o "$script_path/whichlang.js" https://raw.githubusercontent.com/phoenixr-codes/mdbook-whichlang/master/dist/whichlang.js
+curl -sSf -o "$style_path/whichlang.css" https://raw.githubusercontent.com/phoenixr-codes/mdbook-whichlang/master/src/whichlang.css
 
