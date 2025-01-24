@@ -50,7 +50,7 @@ them appropiately. You can furthermore configure them individually which is reco
 
 <!-- ANCHOR_END: description -->
 
-You can see examples and more precise explainations in the [documentation](https://phoenixr-codes.github.io/mdbook-whichlang).
+You can see examples and more precise explanations in the [documentation](https://phoenixr-codes.github.io/mdbook-whichlang).
 
 
 ## Contributing
