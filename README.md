@@ -15,8 +15,8 @@
 In the directory of your book, install _whichlang_ with the following command.
 
 ```console,lang=Console,icon=%gnubash
-curl -sSf -o whichlang.js https://github.com/phoenixr-codes/mdbook-whichlang/releases/latest/download/whichlang.js &&
-curl -sSf -o whichlang.css https://github.com/phoenixr-codes/mdbook-whichlang/releases/latest/download/whichlang.css
+wget https://github.com/phoenixr-codes/mdbook-whichlang/releases/latest/download/whichlang.js &&
+wget https://github.com/phoenixr-codes/mdbook-whichlang/releases/latest/download/whichlang.css
 ```
 
 Don't forget to add these files in your `book.toml`:
