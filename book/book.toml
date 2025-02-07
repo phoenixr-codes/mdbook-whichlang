@@ -9,7 +9,7 @@ title = "whichlang"
 extra-watch-dirs = ["scripts"]
 
 [output.html]
-additional-css = ["whichlang.css", "devicon.css"]
 additional-js = ["scripts/whichlang.js"]
+additional-css = ["theme/whichlang.css"]
 git-repository-url = "https://github.com/phoenixr-codes/mdbook-whichlang/tree/master/"
 edit-url-template = "https://github.com/phoenixr-codes/mdbook-whichlang/edit/master/book/{path}"
